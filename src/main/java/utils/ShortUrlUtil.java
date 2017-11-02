@@ -13,6 +13,7 @@ import java.util.List;
  * Date: 2017-11-02
  * Time: 16:21
  * Description:
+ * 基于新浪网的短链接工具
  */
 public class ShortUrlUtil
 {
@@ -44,7 +45,7 @@ public class ShortUrlUtil
 
     public static void main(String[] args) throws Exception
     {
-        String shortUrl = convertShortUrl("https://github.com/zkydrx/ideaSettings");
+        String shortUrl = convertShortUrl("https://github.com/zkydrx/ShortURLTool");
         System.out.println(shortUrl);
     }
 }
