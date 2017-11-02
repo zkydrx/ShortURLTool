@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ShortURLTool:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ShortURLTool.war">
+      <element id="artifact" artifact-name="ShortURLTool:war exploded" />
+    </root>
+  </artifact>
+</component>
