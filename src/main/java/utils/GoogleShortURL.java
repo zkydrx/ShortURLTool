@@ -34,7 +34,7 @@ public class GoogleShortURL
 
     public static void main(String[] args)
     {
-        String shortUrl = createShortUrl("https://github.com/zkydrx/tools/tree/master/mysqltool");
+        String shortUrl = createShortUrl("https://github.com/zkydrx/ShortURLTool");
 
         System.out.println(shortUrl);
     }

@@ -9,7 +9,7 @@
         <module name="ShortURLTool" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="ShortURLTool" target="1.8" />
     </bytecodeTargetLevel>
   </component>
